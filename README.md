@@ -19,8 +19,8 @@
 <details>
   
   <summary><b>JAVA_HOME PATH</b></summary>
-  <br/><br/>
-  <b>A. In order to configure JAVA_HOME path do the following:</b><br/>
+  <br/>
+<b>A. In order to configure JAVA_HOME path do the following:</b><br/>
   1. Go to "Advanced System Settings" > Advanced Tab > Environment Variables<br/>
   2. Go to System Variables section > click on New... button<br/>
   3. Type Variable name: JAVA_HOME<br/>
