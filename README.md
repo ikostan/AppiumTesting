@@ -27,7 +27,7 @@
   4. Enter Variable Value: C:\Program Files\Java\jdk1.8.0_221<br/>
   5. Press OK button<br/><br/>
   <div align="center"> 
-  <img width="70%" height="70%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/java_home.jpg" hspace="10">
+  <img width="80%" height="80%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/java_home.jpg" hspace="10">
   </div>
   
   <b>Edit environment variable:</b><br/>
@@ -36,7 +36,7 @@
   3. Press OK button<br/>
   
   <div align="center"> 
-  <img width="70%" height="70%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/java_home_2.jpg" hspace="10">
+  <img width="80%" height="80%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/java_home_2.jpg" hspace="10">
   </div>
   
 </details>
