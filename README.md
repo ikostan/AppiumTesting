@@ -30,7 +30,7 @@
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/java_home.jpg" hspace="10">
   </div>
   
-  <b>Edit environment variable:</b><br/>
+  <b>B. Edit environment variable:</b><br/>
   1. From System variables list select path > Press Edit... button<br/>
   2. Press on New button > type: %JAVA_HOME%\bin<br/>
   3. Press OK button<br/>
