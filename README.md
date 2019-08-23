@@ -73,7 +73,7 @@
   2. If everifyng is configured properly you will something like this:<br/>
   
   <div align="center"> 
-  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/adb_devices.JPG" hspace="10">
+  <img width="50%" height="50%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/adb_devices.JPG" hspace="10">
   </div>
   
 </details>
