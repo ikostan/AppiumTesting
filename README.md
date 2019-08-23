@@ -57,6 +57,17 @@
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/android_home.JPG" hspace="10">
   </div>
   
+  <b>B. Edit environment variable:</b><br/>
+  1. From System variables list select path > Press Edit... button<br/>
+  2. Press on New button > type: %ANDROID_HOME%\tools<br/>
+  3. Press OK button<br/>
+  4. Press on New button > type: %ANDROID_HOME%\platform-tools<br/>
+  5. Press OK button<br/>
+  
+  <div align="center"> 
+  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/android_home_2.jpg" hspace="10">
+  </div>
+  
 </details>
 
 
