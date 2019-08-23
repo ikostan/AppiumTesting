@@ -10,9 +10,11 @@
 - Node.js v10.6.3<br/>
 - Appium Server GUI client v1.13.0<br/>
 - nmp v6.9.0<br/>
+- [Maven 3.6.1](https://maven.apache.org/download.cgi)<br/>
 
 ### Nice to have tools:<br/>
-- <br/>
+- TeamViewer<br/>
+- TeamViewer<br/>
 
 
 ### How To:<br/>
