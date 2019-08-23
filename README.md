@@ -1,18 +1,20 @@
 ## Intro to Mobile automation testing for IOS and Android with Appium
 
 ### Dev config:<br/>
-- Win 10 64 bit<br/>
-- GitHub Desktop v2.1.2<br/>
-- Git v2.22.0.windows.1<br/>
-- Eclipse IDE for Java Developers Version: 2019-06 (4.12.0)<br/>
-- Android Studio v3.5<br/>
-- Java SE Development Kit 8 Update 221 (64-bit)<br/>
-- Node.js v10.6.3<br/>
-- Appium Server GUI client v1.13.0<br/>
-- nmp v6.9.0<br/>
+- [Win 10 64 bit](https://www.microsoft.com/en-ca/software-download/windows10)<br/>
+- [GitHub Desktop v2.1.2](https://desktop.github.com/)<br/>
+- [Git v2.22.0.windows.1](https://git-scm.com/downloads)<br/>
+- [Eclipse IDE for Java Developers Version: 2019-06 (4.12.0)](https://www.eclipse.org/downloads/packages/installer)<br/>
+- [Android Studio v3.5](https://developer.android.com/studio)<br/>
+- [Java SE Development Kit 8 Update 221 (64-bit)](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)<br/>
+- [Node.js v10.6.3](https://nodejs.org/en/download/current/)<br/>
+- [Appium Server GUI client v1.13.0](http://appium.io/)<br/>
+- [nmp v6.9.0](https://nodejs.org/en/download/)<br/>
+- [Maven 3.6.1](https://maven.apache.org/download.cgi)<br/>
 
 ### Nice to have tools:<br/>
-- <br/>
+- [TeamViewer](https://www.teamviewer.com/en/?pcc_keyword=teamviewer&gclid=CjwKCAjwnf7qBRAtEiwAseBO_KX932ojJ2gLJlB0LXHzDgtRmizzK8Hps7460wGhuOVlpp9Ea70ukxoCUgYQAvD_BwE)<br/>
+- TeamViewer<br/>
 
 
 ### How To:<br/>
