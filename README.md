@@ -65,7 +65,7 @@
   5. Press OK button<br/>
   
   <div align="center"> 
-  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/android_home_2.jpg" hspace="10">
+  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/android_home_2.JPG" hspace="10">
   </div>
   
 </details>
