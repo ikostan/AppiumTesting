@@ -104,6 +104,14 @@
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/maven_home_2.jpg" hspace="10">
   </div>
   
+  <b>C. Test:</b>
+  1. Open CMD > run "mvn --version"<br/>
+  2. If everifyng is configured properly you will something like this:<br/>
+  
+  <div align="center"> 
+  <img width="50%" height="50%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/maven_cmd.JPG" hspace="10">
+  </div>
+  
 </details>
 
 
