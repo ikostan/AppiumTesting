@@ -5,6 +5,7 @@
 - GitHub Desktop v2.1.2<br/>
 - Git v2.22.0.windows.1<br/>
 - Eclipse IDE for Java Developers Version: 2019-06 (4.12.0)<br/>
+- Android Studio v3.5<br/>
 - Java SE Development Kit 8 Update 221 (64-bit)<br/>
 - Node.js v10.6.3<br/>
 - Appium Server GUI client v1.13.0<br/>
