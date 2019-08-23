@@ -51,7 +51,7 @@
   1. Go to "Advanced System Settings" > Advanced Tab > Environment Variables<br/>
   2. Go to System Variables section > click on New... button<br/>
   3. Type Variable name: ANDROID_HOME<br/>
-  4. Enter Variable Value: C:\Users\<username>\AppData\Local\Android\Sdk<br/>
+  4. Enter Variable Value: C:\Users\username\AppData\Local\Android\Sdk<br/>
   5. Press OK button<br/><br/>
   <div align="center"> 
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/android_home.JPG" hspace="10">
