@@ -84,7 +84,7 @@
 <details>
   
   <summary><b>Maven PATH</b></summary>
-  
+  <br/>
   <b>A. In order to configure MVN_HOME path do the following:</b><br/>
   1. Go to "Advanced System Settings" > Advanced Tab > Environment Variables<br/>
   2. Go to System Variables section > click on New... button<br/>
