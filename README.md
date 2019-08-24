@@ -14,8 +14,8 @@
 
 ### Nice to have tools:<br/>
 - [TeamViewer](https://www.teamviewer.com/en/?pcc_keyword=teamviewer&gclid=CjwKCAjwnf7qBRAtEiwAseBO_KX932ojJ2gLJlB0LXHzDgtRmizzK8Hps7460wGhuOVlpp9Ea70ukxoCUgYQAvD_BwE)<br/>
-- TeamViewer<br/>
-
+- [TeamViewer QuickSupport](https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en_CA)<br/>
+- [AirDroid: Remote access & File](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=en_CA)<br/>
 
 ### How To:<br/>
 
