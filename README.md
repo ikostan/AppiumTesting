@@ -1,4 +1,4 @@
-## Intro to Mobile automation testing for IOS and Android with Appium
+## Intro to Mobile Automation Testing for IOS and Android with Appium
 
 ### Dev config:<br/>
 - [Win 10 64 bit](https://www.microsoft.com/en-ca/software-download/windows10)<br/>
