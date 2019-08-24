@@ -16,6 +16,7 @@
 - [TeamViewer](https://www.teamviewer.com/en/?pcc_keyword=teamviewer&gclid=CjwKCAjwnf7qBRAtEiwAseBO_KX932ojJ2gLJlB0LXHzDgtRmizzK8Hps7460wGhuOVlpp9Ea70ukxoCUgYQAvD_BwE)<br/>
 - [TeamViewer QuickSupport](https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en_CA)<br/>
 - [AirDroid: Remote access & File](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=en_CA)<br/>
+- [Selendroid Test App](http://search.maven.org/remotecontent?filepath=io/selendroid/selendroid-test-app/0.17.0/selendroid-test-app-0.17.0.apk)<br/>
 
 ### Documentation:<br/>
 - [Appium API Documentation](http://appium.io/docs/en/about-appium/api/)
