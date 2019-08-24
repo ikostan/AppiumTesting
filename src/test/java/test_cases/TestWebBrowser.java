@@ -4,6 +4,7 @@ import java.net.URL;
 import java.util.concurrent.TimeUnit;
 import java.net.MalformedURLException;
 
+import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.MobileCapabilityType;
 
@@ -14,7 +15,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 public class TestWebBrowser {
 	
-	public static AndroidDriver driver;
+	public static AppiumDriver driver;
 
 	public static void main(String[] args) throws MalformedURLException{
 		
