@@ -117,6 +117,11 @@
 
 <details>
   
-  <summary><b></b></summary>
+  <summary><b>Adding Dependencies: Java Client</b></summary>
   
+  <div align="center"> 
+  <img width="80%" height="80%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/pom_dependencies.JPG" hspace="10">
+  </div>
+  
+  Source: https://mvnrepository.com/artifact/io.appium/java-client
 </details>
