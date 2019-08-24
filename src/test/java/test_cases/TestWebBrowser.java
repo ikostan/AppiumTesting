@@ -21,7 +21,7 @@ public class TestWebBrowser {
 		// Browser + Device
 		DesiredCapabilities capabilities = new DesiredCapabilities();
 		capabilities.setCapability(CapabilityType.BROWSER_NAME, "Chrome");
-		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Android");
+		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Android_Tablet");
 		
 		//Open Web Browser on Google page and type "Hello Appium" in search field
 		driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);	
