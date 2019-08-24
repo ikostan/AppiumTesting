@@ -14,8 +14,8 @@
 
 ### Nice to have tools:<br/>
 - [TeamViewer](https://www.teamviewer.com/en/?pcc_keyword=teamviewer&gclid=CjwKCAjwnf7qBRAtEiwAseBO_KX932ojJ2gLJlB0LXHzDgtRmizzK8Hps7460wGhuOVlpp9Ea70ukxoCUgYQAvD_BwE)<br/>
-- TeamViewer<br/>
-
+- [TeamViewer QuickSupport](https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en_CA)<br/>
+- [AirDroid: Remote access & File](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=en_CA)<br/>
 
 ### How To:<br/>
 
@@ -117,6 +117,27 @@
 
 <details>
   
-  <summary><b></b></summary>
+  <summary><b>Adding Dependencies: Java Client</b></summary>
+  <br/>
+  <div align="center"> 
+  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/pom_dependencies.JPG" hspace="10">
+  </div>
   
+  Source: https://mvnrepository.com/artifact/io.appium/java-client
+</details>
+
+
+<details>
+  
+  <summary><b>Inspect with Chrome Developer</b></summary>
+  <br/>
+  1. Open Chrome web browser > new tab<br/>
+  2. Paste following address: chrome:..inspect/#devices<br/>
+  
+  If evryfing connected properly you will see something like this:<br>
+  <div align="center"> 
+  <img width="90%" height="90%" src="" hspace="10">
+  </div>
+  
+  Source: 
 </details>
