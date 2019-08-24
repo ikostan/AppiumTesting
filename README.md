@@ -185,7 +185,7 @@
   
   <br/> You should see something like that:
   <div align="center"> 
-  <img width="70%" height="70%" src="" hspace="10">
+  <img width="60%" height="60%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/adb_shell.JPG" hspace="10">
   </div>
   
 </details>
@@ -194,7 +194,7 @@
   
   <summary><b>error: RPC failed; curl 56 Recv failure: Connection was reset</b></summary>
   <br/>
-  1. Git Bash<br/>
+  1. Open Git Bash<br/>
   2. Run: "git config --global http.postBuffer 157286400" > Enter<br/>
   
   <br/>Source: https://stackoverflow.com/questions/36940425/gitlab-push-failed-error
@@ -202,4 +202,9 @@
 </details>
 
 <details>
+  
+  <summary><b></b></summary>
+  
+</details>
+
 
