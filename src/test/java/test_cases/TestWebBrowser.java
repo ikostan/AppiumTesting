@@ -30,7 +30,7 @@ public class TestWebBrowser {
 		driver.get("http://google.com");
 		driver.findElement(By.name("q")).sendKeys("Hello Appium");
 		
-		//Pause for 4 seconds
+		//Pause for 2 seconds
 		try {
 			Thread.sleep(2000);
 		} catch (InterruptedException e) {
@@ -38,9 +38,10 @@ public class TestWebBrowser {
 			e.printStackTrace();
 		}
 		
+		//Click on Search button
 		driver.findElement(By.xpath("//*[@id=\"tsf\"]/div[2]/div[1]/div[1]/button[2]")).click();
 		
-		//Pause for 4 seconds
+		//Pause for 2 seconds
 		try {
 			Thread.sleep(2000);
 		} catch (InterruptedException e) {
