@@ -155,19 +155,19 @@
   3. Add following path: https://appium.github.io/java-client/<br/>
   4. Click OK<br/>
   
-  <div align="center"> 
+  <br/><div align="center"> 
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/api_doc.JPG" hspace="10">
   </div>
   
-  <div align="center"> 
+  <br/><div align="center"> 
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/properties.JPG" hspace="10">
   </div>
   
-  <div align="center"> 
+  <br/><div align="center"> 
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/edit_java_doc.JPG" hspace="10">
   </div>
   
-  <div align="center"> 
+  <br/><div align="center"> 
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/edit.JPG" hspace="10">
   </div>
   
