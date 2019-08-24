@@ -17,6 +17,9 @@
 - [TeamViewer QuickSupport](https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en_CA)<br/>
 - [AirDroid: Remote access & File](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=en_CA)<br/>
 
+### Documentation:<br/>
+- Appium API Documentation
+
 ### How To:<br/>
 
 <details>
