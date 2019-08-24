@@ -156,19 +156,19 @@
   4. Click OK<br/>
   
   <br/><div align="center"> 
-  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/api_doc.JPG" hspace="10">
+  <img width="70%" height="70%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/api_doc.JPG" hspace="10">
   </div>
   
   <br/><div align="center"> 
-  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/properties.JPG" hspace="10">
+  <img width="70%" height="70%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/properties.JPG" hspace="10">
   </div>
   
   <br/><div align="center"> 
-  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/edit_java_doc.JPG" hspace="10">
+  <img width="70%" height="70%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/edit_java_doc.JPG" hspace="10">
   </div>
   
   <br/><div align="center"> 
-  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/edit.JPG" hspace="10">
+  <img width="70%" height="70%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/edit.JPG" hspace="10">
   </div>
   
 </details>
