@@ -174,3 +174,19 @@
   
 </details>
 
+
+<details>
+  
+  <summary><b>Current Activity name discovery</b></summary>
+  <br/>
+  1. Open CMD <br/>
+  2. Run: "adb shell" > Enter<br/>
+  3. Run: "dumpsys window windows | grep =E 'mCurrentFocus'" > Enter<br/>
+  
+  <br/> You should see something like that:
+  <div align="center"> 
+  <img width="70%" height="70%" src="" hspace="10">
+  </div>
+  
+</details>
+
