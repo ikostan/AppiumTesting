@@ -125,3 +125,19 @@
   
   Source: https://mvnrepository.com/artifact/io.appium/java-client
 </details>
+
+
+<details>
+  
+  <summary><b>Inspect with Chrome Developer</b></summary>
+  <br/>
+  1. Open Chrome web browser > new tab<br/>
+  2. Paste following address: chrome:..inspect/#devices<br/>
+  
+  If evryfing connected properly you will see something like this:<br>
+  <div align="center"> 
+  <img width="90%" height="90%" src="" hspace="10">
+  </div>
+  
+  Source: 
+</details>
