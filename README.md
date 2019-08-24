@@ -134,7 +134,7 @@
   1. Open Chrome web browser > new tab<br/>
   2. Paste following address: chrome:..inspect/#devices<br/>
   
-  If evryfing connected properly you will see something like this:<br>
+  <br/>If evryfing connected properly you will see something like this:<br>
   <div align="center"> 
   <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/inspect_devices.JPG" hspace="10">
   </div>
