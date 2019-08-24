@@ -136,7 +136,7 @@
   
   If evryfing connected properly you will see something like this:<br>
   <div align="center"> 
-  <img width="90%" height="90%" src="" hspace="10">
+  <img width="90%" height="90%" src="https://github.com/ikostan/AppiumTesting/blob/master/img/inspect_devices.JPG" hspace="10">
   </div>
   
   Source: 
