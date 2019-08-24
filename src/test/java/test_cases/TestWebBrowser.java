@@ -32,7 +32,17 @@ public class TestWebBrowser {
 		
 		//Pause for 4 seconds
 		try {
-			Thread.sleep(3000);
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		driver.findElement(By.xpath("//*[@id=\"tsf\"]/div[2]/div[1]/div[1]/button[2]")).click();
+		
+		//Pause for 4 seconds
+		try {
+			Thread.sleep(2000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
