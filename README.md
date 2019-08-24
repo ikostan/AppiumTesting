@@ -18,7 +18,7 @@
 - [AirDroid: Remote access & File](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=en_CA)<br/>
 
 ### Documentation:<br/>
-- Appium API Documentation
+- [Appium API Documentation](http://appium.io/docs/en/about-appium/api/)
 
 ### How To:<br/>
 
